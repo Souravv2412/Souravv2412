@@ -12,7 +12,7 @@ Data Analyst with a strong foundation in data wrangling, exploratory analysis, a
 ![](https://nirzak-streak-stats.vercel.app/?user=Souravv2412&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Souravv2412&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## GitHub Trophies
+## 
 ![](https://github-profile-trophy.vercel.app/?username=Souravv2412&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 ---
