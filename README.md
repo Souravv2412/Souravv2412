@@ -2,6 +2,15 @@
 Data Analyst with a strong foundation in data wrangling, exploratory analysis, and practical machine learning. I focus on turning messy, real-world data into clear insights and deployable solutions, not just notebooks. I have hands-on experience selecting appropriate ML models, validating results, and deploying them using cloud services, with basic monitoring to ensure reliability over time. I also understand core data engineering concepts like data pipelines, structured storage, and reproducible workflows, which helps me work effectively with engineers and production systems. My goal is to deliver analysis and models that are accurate, maintainable, and useful in real business environments
 
 
+## Featured Project:
+### Healthcare Readmission Risk Prediction (Capstone)
+- Built an end-to-end healthcare analytics pipeline to predict 30-day diabetic patient readmission risk.
+- Covered data audit, cleaning, EDA, hypothesis testing, machine learning, and Flask app deployment.
+- Focused on clinically useful metrics (Recall, PR-AUC, ROC-AUC) for imbalanced outcomes.
+
+Repository: [healthcare-readmission-analytics](https://github.com/Souravv2412/healthcare-readmission-analytics)
+
+![Healthcare EDA Highlight](https://raw.githubusercontent.com/Souravv2412/healthcare-readmission-analytics/main/images/main_findings/finding_02_prior_inpatient_signal.png)
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/souravv2412) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourav2312) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singh.s.deep800@gmail.com) 
 
