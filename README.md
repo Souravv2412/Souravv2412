@@ -45,12 +45,10 @@ My goal is to deliver analysis and models that are accurate, maintainable, and u
 
 ### Cloud, BI & Collaboration
 ![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=22d3ee)
-![Azure](https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=22d3ee)
 ![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=22d3ee)
 ![Netlify](https://img.shields.io/badge/Netlify-111827?style=for-the-badge&logo=netlify&logoColor=22d3ee)
 ![Render](https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=22d3ee)
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=22d3ee)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=22d3ee)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=22d3ee)
 ![Jira](https://img.shields.io/badge/Jira-111827?style=for-the-badge&logo=jira&logoColor=22d3ee)
 ![Trello](https://img.shields.io/badge/Trello-111827?style=for-the-badge&logo=trello&logoColor=22d3ee)
