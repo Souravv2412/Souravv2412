@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0b00cf,30:300a6e,70:ff2d2b,100:c10a28&text=Hello,%20I'm%20Souravdeep%20Singh&fontSize=42&fontColor=300a6e&animation=fadeIn&fontAlignY=44&desc=Data%20Analyst%20%7C%20ML%20Practitioner%20%7C%20Cloud-Ready%20Solutions&descColor=1e0050&descAlignY=64" alt="Custom High-Energy Tech Palette Profile Banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=0:251cd6,35:46249e,70:ff5957,100:d6314c&animation=twinkling" alt="Custom Fluid Tech Palette Profile Banner" />
+
+# Hello, I'm Souravdeep Singh
+### Data Analyst | ML Practitioner | Cloud-Ready Solutions
 
 <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=2600&pause=700&color=FF2D2B&center=true&vCenter=true&width=900&lines=Turning+messy+data+into+clear+business+insights;From+analysis+to+deployable+ML+solutions;Reliable%2C+maintainable%2C+production-minded+workflows" alt="Typing animation" />
 
@@ -55,5 +58,5 @@ My goal is to deliver analysis and models that are accurate, maintainable, and u
 ![Canva](https://img.shields.io/badge/Canva-300a6e?style=for-the-badge&logo=canva&logoColor=ff2d2b)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0b00cf,30:300a6e,70:ff2d2b,100:c10a28&animation=twinkling" alt="Footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:251cd6,35:46249e,70:ff5957,100:d6314c&animation=twinkling" alt="Footer wave" />
 </div>
