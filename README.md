@@ -1,24 +1,15 @@
 <div align="center">
 
-<picture>
-  <!-- Dark Mode Banner (White text over an Orange and Deep Indigo gradient) -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0f172a,40:1e1b4b,80:ea580c,100:ff7a00&text=Hello,%20I'm%20Souravdeep%20Singh&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=44&desc=Data%20Analyst%20%7C%20ML%20Practitioner%20%7C%20Cloud-Ready%20Solutions&descColor=ffedd5&descAlignY=64" />
-  <!-- Light Mode Banner (Dark slate text over a softer Orange-tinted gradient) -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:f8fafc,40:e0f2fe,80:ffedd5,100:ffb380&text=Hello,%20I'm%20Souravdeep%20Singh&fontSize=44&fontColor=0f172a&animation=fadeIn&fontAlignY=44&desc=Data%20Analyst%20%7C%20ML%20Practitioner%20%7C%20Cloud-Ready%20Solutions&descColor=4338ca&descAlignY=64" alt="Theme Responsive Banner" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:ffe6d5,30:ffbc99,70:f97316,100:ff5500&text=Hello,%20I'm%20Souravdeep%20Singh&fontSize=42&fontColor=0a1128&animation=fadeIn&fontAlignY=44&desc=Data%20Analyst%20%7C%20ML%20Practitioner%20%7C%20Cloud-Ready%20Solutions&descColor=1e293b&descAlignY=64" alt="High-Contrast Flame Orange Profile Banner" />
 
-<picture>
-  <!-- Dynamic Typing Text Color -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=2600&pause=700&color=FF7A00&center=true&vCenter=true&width=900&lines=Turning+messy+data+into+clear+business+insights;From+analysis+to+deployable+ML+solutions;Reliable%2C+maintainable%2C+production-minded+workflows" />
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=2600&pause=700&color=EA580C&center=true&vCenter=true&width=900&lines=Turning+messy+data+into+clear+business+insights;From+analysis+to+deployable+ML+solutions;Reliable%2C+maintainable%2C+production-minded+workflows" alt="Typing animation" />
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=2600&pause=700&color=EA580C&center=true&vCenter=true&width=900&lines=Turning+messy+data+into+clear+business+insights;From+analysis+to+deployable+ML+solutions;Reliable%2C+maintainable%2C+production-minded+workflows" alt="Typing animation" />
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-4338ca?style=for-the-badge&logo=databricks&logoColor=ff7a00" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-4338ca?style=for-the-badge&logo=tensorflow&logoColor=ff7a00" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%20Deployment-4338ca?style=for-the-badge&logo=amazonaws&logoColor=ff7a00" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-0a1128?style=for-the-badge&logo=databricks&logoColor=f97316" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-0a1128?style=for-the-badge&logo=tensorflow&logoColor=f97316" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Deployment-0a1128?style=for-the-badge&logo=amazonaws&logoColor=f97316" />
 </p>
 
 ## About Me
@@ -34,40 +25,35 @@ My goal is to deliver analysis and models that are accurate, maintainable, and u
 ## Tech Stack
 
 ### Languages & Core
-![Python](https://img.shields.io/badge/Python-4338ca?style=for-the-badge&logo=python&logoColor=ff7a00)
-![Java](https://img.shields.io/badge/Java-4338ca?style=for-the-badge&logo=openjdk&logoColor=ff7a00)
-![HTML5](https://img.shields.io/badge/HTML5-4338ca?style=for-the-badge&logo=html5&logoColor=ff7a00)
+![Python](https://img.shields.io/badge/Python-0a1128?style=for-the-badge&logo=python&logoColor=f97316)
+![Java](https://img.shields.io/badge/Java-0a1128?style=for-the-badge&logo=openjdk&logoColor=f97316)
+![HTML5](https://img.shields.io/badge/HTML5-0a1128?style=for-the-badge&logo=html5&logoColor=f97316)
 
 ### Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-4338ca?style=for-the-badge&logo=pandas&logoColor=ff7a00)
-![NumPy](https://img.shields.io/badge/NumPy-4338ca?style=for-the-badge&logo=numpy&logoColor=ff7a00)
-![SciPy](https://img.shields.io/badge/SciPy-4338ca?style=for-the-badge&logo=scipy&logoColor=ff7a00)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-4338ca?style=for-the-badge&logo=scikitlearn&logoColor=ff7a00)
-![PyTorch](https://img.shields.io/badge/PyTorch-4338ca?style=for-the-badge&logo=pytorch&logoColor=ff7a00)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-4338ca?style=for-the-badge&logo=tensorflow&logoColor=ff7a00)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-4338ca?style=for-the-badge&logo=plotly&logoColor=ff7a00)
+![Pandas](https://img.shields.io/badge/Pandas-0a1128?style=for-the-badge&logo=pandas&logoColor=f97316)
+![NumPy](https://img.shields.io/badge/NumPy-0a1128?style=for-the-badge&logo=numpy&logoColor=f97316)
+![SciPy](https://img.shields.io/badge/SciPy-0a1128?style=for-the-badge&logo=scipy&logoColor=f97316)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0a1128?style=for-the-badge&logo=scikitlearn&logoColor=f97316)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a1128?style=for-the-badge&logo=pytorch&logoColor=f97316)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a1128?style=for-the-badge&logo=tensorflow&logoColor=f97316)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0a1128?style=for-the-badge&logo=plotly&logoColor=f97316)
 
 ### Databases & Warehousing
-![MySQL](https://img.shields.io/badge/MySQL-4338ca?style=for-the-badge&logo=mysql&logoColor=ff7a00)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-4338ca?style=for-the-badge&logo=microsoftsqlserver&logoColor=ff7a00)
-![Snowflake](https://img.shields.io/badge/Snowflake-4338ca?style=for-the-badge&logo=snowflake&logoColor=ff7a00)
+![MySQL](https://img.shields.io/badge/MySQL-0a1128?style=for-the-badge&logo=mysql&logoColor=f97316)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-0a1128?style=for-the-badge&logo=microsoftsqlserver&logoColor=f97316)
+![Snowflake](https://img.shields.io/badge/Snowflake-0a1128?style=for-the-badge&logo=snowflake&logoColor=f97316)
 
 ### Cloud, BI & Collaboration
-![AWS](https://img.shields.io/badge/AWS-4338ca?style=for-the-badge&logo=amazonaws&logoColor=ff7a00)
-![Flask](https://img.shields.io/badge/Flask-4338ca?style=for-the-badge&logo=flask&logoColor=ff7a00)
-![Netlify](https://img.shields.io/badge/Netlify-4338ca?style=for-the-badge&logo=netlify&logoColor=ff7a00)
-![Render](https://img.shields.io/badge/Render-4338ca?style=for-the-badge&logo=render&logoColor=ff7a00)
-![Power BI](https://img.shields.io/badge/Power%20BI-4338ca?style=for-the-badge&logo=powerbi&logoColor=ff7a00)
---------------
-![GitHub](https://img.shields.io/badge/GitHub-4338ca?style=for-the-badge&logo=github&logoColor=ff7a00)
-![Jira](https://img.shields.io/badge/Jira-4338ca?style=for-the-badge&logo=jira&logoColor=ff7a00)
-![Trello](https://img.shields.io/badge/Trello-4338ca?style=for-the-badge&logo=trello&logoColor=ff7a00)
-![Canva](https://img.shields.io/badge/Canva-4338ca?style=for-the-badge&logo=canva&logoColor=ff7a00)
+![AWS](https://img.shields.io/badge/AWS-0a1128?style=for-the-badge&logo=amazonaws&logoColor=f97316)
+![Flask](https://img.shields.io/badge/Flask-0a1128?style=for-the-badge&logo=flask&logoColor=f97316)
+![Netlify](https://img.shields.io/badge/Netlify-0a1128?style=for-the-badge&logo=netlify&logoColor=f97316)
+![Render](https://img.shields.io/badge/Render-0a1128?style=for-the-badge&logo=render&logoColor=f97316)
+![Power BI](https://img.shields.io/badge/Power%20BI-0a1128?style=for-the-badge&logo=powerbi&logoColor=f97316)
+![GitHub](https://img.shields.io/badge/GitHub-0a1128?style=for-the-badge&logo=github&logoColor=f97316)
+![Jira](https://img.shields.io/badge/Jira-0a1128?style=for-the-badge&logo=jira&logoColor=f97316)
+![Trello](https://img.shields.io/badge/Trello-0a1128?style=for-the-badge&logo=trello&logoColor=f97316)
+![Canva](https://img.shields.io/badge/Canva-0a1128?style=for-the-badge&logo=canva&logoColor=f97316)
 
 <div align="center">
-<picture>
-  <!-- Dynamic Footer Matching the Header Layout -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f172a,40:1e1b4b,80:ea580c,100:ff7a00&animation=twinkling" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:f8fafc,40:e0f2fe,80:ffedd5,100:ffb380&animation=twinkling" alt="Footer wave" />
-</picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:ffe6d5,30:ffbc99,70:f97316,100:ff5500&animation=twinkling" alt="Footer wave" />
 </div>
