@@ -3,9 +3,18 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=0:251cd6,35:46249e,70:ff5957,100:d6314c&animation=twinkling" alt="Custom Fluid Tech Palette Profile Banner" />
 
 # Hello, I'm Souravdeep Singh
+
 ### Data Analyst | ML Practitioner | Cloud-Ready Solutions
 
 <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=2600&pause=700&color=FF2D2B&center=true&vCenter=true&width=900&lines=Turning+messy+data+into+clear+business+insights;From+analysis+to+deployable+ML+solutions;Reliable%2C+maintainable%2C+production-minded+workflows" alt="Typing animation" />
+
+<br><br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Funny developer working on laptop" />
+
+<br>
+
+<h3>👋 Hi, welcome to my GitHub!</h3>
 
 </div>
 
@@ -28,35 +37,61 @@ My goal is to deliver analysis and models that are accurate, maintainable, and u
 ## Tech Stack
 
 ### Languages & Core
+
 ![Python](https://img.shields.io/badge/Python-300a6e?style=for-the-badge&logo=python&logoColor=ff2d2b)
+
 ![Java](https://img.shields.io/badge/Java-300a6e?style=for-the-badge&logo=openjdk&logoColor=ff2d2b)
+
 ![HTML5](https://img.shields.io/badge/HTML5-300a6e?style=for-the-badge&logo=html5&logoColor=ff2d2b)
 
 ### Data Science & ML
+
 ![Pandas](https://img.shields.io/badge/Pandas-300a6e?style=for-the-badge&logo=pandas&logoColor=ff2d2b)
+
 ![NumPy](https://img.shields.io/badge/NumPy-300a6e?style=for-the-badge&logo=numpy&logoColor=ff2d2b)
+
 ![SciPy](https://img.shields.io/badge/SciPy-300a6e?style=for-the-badge&logo=scipy&logoColor=ff2d2b)
+
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-300a6e?style=for-the-badge&logo=scikitlearn&logoColor=ff2d2b)
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-300a6e?style=for-the-badge&logo=pytorch&logoColor=ff2d2b)
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-300a6e?style=for-the-badge&logo=tensorflow&logoColor=ff2d2b)
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-300a6e?style=for-the-badge&logo=plotly&logoColor=ff2d2b)
 
 ### Databases & Warehousing
+
 ![MySQL](https://img.shields.io/badge/MySQL-300a6e?style=for-the-badge&logo=mysql&logoColor=ff2d2b)
+
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-300a6e?style=for-the-badge&logo=microsoftsqlserver&logoColor=ff2d2b)
+
 ![Snowflake](https://img.shields.io/badge/Snowflake-300a6e?style=for-the-badge&logo=snowflake&logoColor=ff2d2b)
 
 ### Cloud, BI & Collaboration
+
 ![AWS](https://img.shields.io/badge/AWS-300a6e?style=for-the-badge&logo=amazonaws&logoColor=ff2d2b)
+
 ![Flask](https://img.shields.io/badge/Flask-300a6e?style=for-the-badge&logo=flask&logoColor=ff2d2b)
+
 ![Netlify](https://img.shields.io/badge/Netlify-300a6e?style=for-the-badge&logo=netlify&logoColor=ff2d2b)
+
 ![Render](https://img.shields.io/badge/Render-300a6e?style=for-the-badge&logo=render&logoColor=ff2d2b)
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-300a6e?style=for-the-badge&logo=powerbi&logoColor=ff2d2b)
+
 ![GitHub](https://img.shields.io/badge/GitHub-300a6e?style=for-the-badge&logo=github&logoColor=ff2d2b)
+
 ![Jira](https://img.shields.io/badge/Jira-300a6e?style=for-the-badge&logo=jira&logoColor=ff2d2b)
+
 ![Trello](https://img.shields.io/badge/Trello-300a6e?style=for-the-badge&logo=trello&logoColor=ff2d2b)
+
 ![Canva](https://img.shields.io/badge/Canva-300a6e?style=for-the-badge&logo=canva&logoColor=ff2d2b)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:251cd6,35:46249e,70:ff5957,100:d6314c&animation=twinkling" alt="Footer wave" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:251cd6,35:46249e,70:ff5957,100:d6314c&animation=twinkling" alt="Footer wave" />
+
 </div>
