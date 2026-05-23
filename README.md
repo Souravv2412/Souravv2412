@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=circle&height=140&color=0:0b00cf,30:300a6e,70:ff2d2b,100:c10a28&animation=twinkling" alt="Custom Circular Tech Palette Animation" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=0:251cd6,35:46249e,70:ff5957,100:d6314c&animation=twinkling" alt="Custom Fluid Tech Palette Profile Banner" />
 
 # Hello, I'm Souravdeep Singh
 ### Data Analyst | ML Practitioner | Cloud-Ready Solutions
@@ -58,5 +58,5 @@ My goal is to deliver analysis and models that are accurate, maintainable, and u
 ![Canva](https://img.shields.io/badge/Canva-300a6e?style=for-the-badge&logo=canva&logoColor=ff2d2b)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=circle&height=60&section=footer&color=0:0b00cf,30:300a6e,70:ff2d2b,100:c10a28&animation=twinkling" alt="Footer circle accent" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:251cd6,35:46249e,70:ff5957,100:d6314c&animation=twinkling" alt="Footer wave" />
 </div>
