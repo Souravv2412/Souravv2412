@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wavy&height=240&color=0:fffbeb,30:fde68a,70:fbbf24,100:d97706&text=Hello,%20I'm%20Souravdeep%20Singh&fontSize=42&fontColor=0a1128&animation=fadeIn&fontAlignY=44&desc=Data%20Analyst%20%7C%20ML%20Practitioner%20%7C%20Cloud-Ready%20Solutions&descColor=1e293b&descAlignY=64" alt="High-Contrast Dark Yellow Profile Banner" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=240&color=0:fffbeb,100:fbbf24&text=Hello,%20I'm%20Souravdeep%20Singh&fontSize=42&fontColor=0a1128&animation=fadeIn&fontAlignY=44&desc=Data%20Analyst%20%7C%20ML%20Practitioner%20%7C%20Cloud-Ready%20Solutions&descColor=1e293b&descAlignY=64" alt="High-Contrast Dark Yellow Profile Banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=2600&pause=700&color=D97706&center=true&vCenter=true&width=900&lines=Turning+messy+data+into+clear+business+insights;From+analysis+to+deployable+ML+solutions;Reliable%2C+maintainable%2C+production-minded+workflows" alt="Typing animation" />
 
@@ -55,5 +55,5 @@ My goal is to deliver analysis and models that are accurate, maintainable, and u
 ![Canva](https://img.shields.io/badge/Canva-0a1128?style=for-the-badge&logo=canva&logoColor=fbbf24)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:fffbeb,30:fde68a,70:fbbf24,100:d97706&animation=twinkling" alt="Footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:fffbeb,100:fbbf24&animation=twinkling" alt="Footer wave" />
 </div>
