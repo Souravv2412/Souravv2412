@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=240&color=0:fde68a,100:d97706&text=Hello,%20I'm%20Souravdeep%20Singh&fontSize=42&fontColor=0a1128&animation=twinkling&fontAlignY=44&desc=Data%20Analyst%20%7C%20ML%20Practitioner%20%7C%20Cloud-Ready%20Solutions&descColor=0a1128&descAlignY=64" alt="High-Contrast Dark Yellow Rectangular Profile Banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:fde68a,100:d97706&text=Hello,%20I'm%20Souravdeep%20Singh&fontSize=42&fontColor=0a1128&animation=fadeIn&fontAlignY=44&desc=Data%20Analyst%20%7C%20ML%20Practitioner%20%7C%20Cloud-Ready%20Solutions&descColor=1e293b&descAlignY=64" alt="Liquid Amber Venom Profile Banner" />
 
 <br />
 
@@ -57,7 +57,5 @@ My goal is to deliver analysis and models that are accurate, maintainable, and u
 ![Canva](https://img.shields.io/badge/Canva-0a1128?style=for-the-badge&logo=canva&logoColor=fbbf24)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:fde68a,100:d97706&animation=twinkling" alt="Footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=110&section=footer&color=0:fde68a,100:d97706&animation=twinkling" alt="Footer wave" />
 </div>
-
-```
